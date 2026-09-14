@@ -1,6 +1,8 @@
 # CoverForge-AI
 Inteligencia artificial: Generación de Prompts
 
+https://colab.research.google.com/drive/1NEf99FRfQwJF3IF9WLu9-o33w0zw6UPs?usp=sharing
+
 
 ## CoverForge AI
 ## 1.Generación de portadas de libros mediante Inteligencia Artificial
